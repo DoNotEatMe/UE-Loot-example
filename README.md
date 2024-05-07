@@ -2,10 +2,9 @@
 
 Showcase: https://www.youtube.com/watch?v=WFJAFDt9F_8
 
-Design statements: 
-Easy to impliment 
-Easy to adjust (weights and types)
-Easy to add new items in pool 
+Design statements:
+
+Easy to impliment, Easy to adjust (weights and types), Easy to add new items in pool 
 
 Implementation:
 1. Assign BP_LootGeneration component to actor
@@ -19,18 +18,23 @@ Loot generation logic:
 //this will return Weapon-Armour-Jewelry-Consumable type of loot
 2. Based on random-weighted type choosed, run same logic for spawn exact loot type, adding RarityType and execute init methods to set mesh e.t.c
 //For example if LootType:Weapon choosed, runs same logic to calculate weights but using BP_LootGeneration->WeaponTypeWeights for calculations
+
 //There is just one moment makes me feel unsatisfied - if DT_Weapon will have more than one row with same type, there will be pure random for spawn item type. e.g. random wepon with type of Sword.
+
 //So at the end exact sword base chanse ~= LootTypeWeight/LootTypeWeightSum + WeaponTypeWeight/WeaponTypeWeightSum + Sword/SwordSum
+
 //For another loot choosing logic we need to impliment weight for each base in DT_'s. Not necessary for my experiment
 
 Rarity logic:
-Rarity represents as something global, so store probabilities in actors is not what i want. Rarity made as DT_RarityType for simple global adjastment. 
-Rarity weight table is creating on BeginPlay in GameMode, so each item could get chanses when generating. Also, in cases where we have dynamic probability on new level we could just make multiplier for each type base on our goal.
+
+* Rarity represents as something global, so store probabilities in actors is not what i want. Rarity made as DT_RarityType for simple global adjastment. 
+* Rarity weight table is creating on BeginPlay in GameMode, so each item could get chanses when generating. Also, in cases where we have dynamic probability on new level we could just make multiplier for each type base on our goal.
 
 Loot Struct view:
-Each item of each type have some specific numbers, as min-max damage or defence. We dont need to store all numbers in one DT. 
-So, idea is around hard stats. Weapon have identical stats, Armour have their own. The could be douvbled, but base struct must be separated.
-After we assign DT row to item we also could get base stats as well. Other stats will be generated after this based on rarity, item type and special effects.
+
+* Each item of each type have some specific numbers, as min-max damage or defence. We dont need to store all numbers in one DT. 
+* So, idea is around hard stats. Weapon have identical stats, Armour have their own. The could be douvbled, but base struct must be separated.
+* After we assign DT row to item we also could get base stats as well. Other stats will be generated after this based on rarity, item type and special effects.
 
 
 
