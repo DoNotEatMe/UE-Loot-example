@@ -38,23 +38,24 @@ After we assign DT row to item we also could get base stats as well. Other stats
 
 
 Assets credits:
-swords pack -> https://sketchfab.com/3d-models/sword-kit-361d8d01c4014ed1b520ad371939c8e8 
-bow pack -> https://sketchfab.com/3d-models/bow-kit-b3bd7dadee054402b2dbdc9ce217c280
-helmet1 -> https://sketchfab.com/3d-models/vietnam-war-era-m1-helmet-c4009bdb0f1b4510b710bd3c8d4aa033
-helmet2 -> https://sketchfab.com/3d-models/horn-helmet-sj03-04-45e5f6f6ffc74cfb88f6c0e50394c49f
-helmet3 -> https://sketchfab.com/3d-models/battle-scarred-mandalorian-helmet-41c5e6a7dda4469cbb50c888264664b3
-gloves1 -> https://sketchfab.com/3d-models/gloves-scanned-87e0b2c0fc814b1988a0d97754d64ce0
-gloves2 -> https://sketchfab.com/3d-models/iron-glove-a5bc047bb07e4fc8a025e59023455b62
-gloves3 -> https://sketchfab.com/3d-models/mechanical-gloves-f3fed278f56e49528c78e6c4c311777d
-boots1 -> https://sketchfab.com/3d-models/kirza-boots-fac9f2745c0f47f5b4e63e2aaf8228f8
-boots2 -> https://sketchfab.com/3d-models/women-combat-boots-f1e9d6761743404e936ecbecc75ca17c
-boots3 -> https://sketchfab.com/3d-models/hiking-boots-lowpoly-1f25fa279bdc4f87b1374566e9e62923
-chest1 -> https://sketchfab.com/3d-models/free-man-armor-2-d022fc3857104da59e286822c20868e1
-chest2 -> https://sketchfab.com/3d-models/free-game-armor-1-9f423d363c9e4c01b6efffaef0b1180b
-chest3 -> https://sketchfab.com/3d-models/armor-6a7bec36d57548ad86841f808f847bb0
-ring1 -> https://sketchfab.com/3d-models/an-old-ring-ea5e0c11f2e046c993239ea1a3efcad7
-necklace1 -> https://sketchfab.com/3d-models/aventurine-necklace-1793c52e7de041beafa8773a47c69505
-belt1 -> https://sketchfab.com/3d-models/toolbelt-058ac6996c7d4c60960311d3b9ece0f3
-Consumables -> https://sketchfab.com/3d-models/celtias-potion-consumables-86710e09f90f4752a017389ebada164e
+* Swords pack -> [Sketchfab](https://sketchfab.com/3d-models/sword-kit-361d8d01c4014ed1b520ad371939c8e8)
+* Bow pack -> [Sketchfab](https://sketchfab.com/3d-models/bow-kit-b3bd7dadee054402b2dbdc9ce217c280)
+* Helmet1 -> [Sketchfab](https://sketchfab.com/3d-models/vietnam-war-era-m1-helmet-c4009bdb0f1b4510b710bd3c8d4aa033)
+* Helmet2 -> [Sketchfab](https://sketchfab.com/3d-models/horn-helmet-sj03-04-45e5f6f6ffc74cfb88f6c0e50394c49f)
+* Helmet3 -> [Sketchfab](https://sketchfab.com/3d-models/battle-scarred-mandalorian-helmet-41c5e6a7dda4469cbb50c888264664b3)
+* Gloves1 -> [Sketchfab](https://sketchfab.com/3d-models/gloves-scanned-87e0b2c0fc814b1988a0d97754d64ce0)
+* Gloves2 -> [Sketchfab](https://sketchfab.com/3d-models/iron-glove-a5bc047bb07e4fc8a025e59023455b62)
+* Gloves3 -> [Sketchfab](https://sketchfab.com/3d-models/mechanical-gloves-f3fed278f56e49528c78e6c4c311777d)
+* Boots1 -> [Sketchfab](https://sketchfab.com/3d-models/kirza-boots-fac9f2745c0f47f5b4e63e2aaf8228f8)
+* Boots2 -> [Sketchfab](https://sketchfab.com/3d-models/women-combat-boots-f1e9d6761743404e936ecbecc75ca17c)
+* Boots3 -> [Sketchfab](https://sketchfab.com/3d-models/hiking-boots-lowpoly-1f25fa279bdc4f87b1374566e9e62923)
+* Chest1 -> [Sketchfab](https://sketchfab.com/3d-models/free-man-armor-2-d022fc3857104da59e286822c20868e1)
+* Chest2 -> [Sketchfab](https://sketchfab.com/3d-models/free-game-armor-1-9f423d363c9e4c01b6efffaef0b1180b)
+* Chest3 -> [Sketchfab](https://sketchfab.com/3d-models/armor-6a7bec36d57548ad86841f808f847bb0)
+* Ring1 -> [Sketchfab](https://sketchfab.com/3d-models/an-old-ring-ea5e0c11f2e046c993239ea1a3efcad7)
+* Necklace1 -> [Sketchfab](https://sketchfab.com/3d-models/aventurine-necklace-1793c52e7de041beafa8773a47c69505)
+* Belt1 -> [Sketchfab](https://sketchfab.com/3d-models/toolbelt-058ac6996c7d4c60960311d3b9ece0f3)
+* Consumables -> [Sketchfab](https://sketchfab.com/3d-models/celtias-potion-consumables-86710e09f90f4752a017389ebada164e)
+
 
 
