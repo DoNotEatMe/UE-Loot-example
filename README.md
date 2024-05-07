@@ -15,8 +15,11 @@ Implementation:
 
 Loot generation logic:
 1. Choosing type of generating loot from ENUM_LootType based on adjusted weights BP_LootGeneration->LootTypeWeights 
+
 //this will return Weapon-Armour-Jewelry-Consumable type of loot
+
 2. Based on random-weighted type choosed, run same logic for spawn exact loot type, adding RarityType and execute init methods to set mesh e.t.c
+
 //For example if LootType:Weapon choosed, runs same logic to calculate weights but using BP_LootGeneration->WeaponTypeWeights for calculations
 
 //There is just one moment makes me feel unsatisfied - if DT_Weapon will have more than one row with same type, there will be pure random for spawn item type. e.g. random wepon with type of Sword.
